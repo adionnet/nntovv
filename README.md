@@ -1,1 +1,1 @@
-Landscapes and more: a hobbyist's creations using AI.
+From imagined nature to images: a hobbyist’s creations using AI.
