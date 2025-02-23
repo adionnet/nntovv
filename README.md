@@ -1,1 +1,1 @@
-From imagined nature to images: a hobbyist’s creations using AI.
+Examples of images created using AI.
