@@ -1,3 +1,1 @@
-Examples of images created using AI.
-
-https://adionnet.github.io/nntovv
+To be used as a supplementary page of nntovv on a POD site.
